@@ -1,0 +1,10 @@
+rootProject.name = 'coding-exercise'
+include 'Detector'
+include 'Non-ConstructibleChange'
+include 'Non-Repeating'
+include 'Palindrom'
+include 'Palindrome'
+include 'SortedSquareArray'
+include 'TournamentWinner'
+include 'ValidateSubSequence'
+

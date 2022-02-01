@@ -1,1 +1,1 @@
-# coding-exercise
+Repository for coding challenges
