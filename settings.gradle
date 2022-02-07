@@ -7,4 +7,7 @@ include 'Palindrome'
 include 'SortedSquareArray'
 include 'TournamentWinner'
 include 'ValidateSubSequence'
+include 'BubbleSort'
+include 'SelectionSort'
+include 'ThreeLargestNumber'
 
