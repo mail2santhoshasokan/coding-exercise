@@ -10,4 +10,5 @@ include 'ValidateSubSequence'
 include 'BubbleSort'
 include 'SelectionSort'
 include 'ThreeLargestNumber'
+include 'MinimumWaitingTime'
 

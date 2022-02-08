@@ -9,12 +9,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BubbleSort" />
             <option value="$PROJECT_DIR$/Detector" />
+            <option value="$PROJECT_DIR$/MinimumWaitingTime" />
             <option value="$PROJECT_DIR$/Non-ConstructibleChange" />
             <option value="$PROJECT_DIR$/Non-Repeating" />
             <option value="$PROJECT_DIR$/Palindrom" />
             <option value="$PROJECT_DIR$/Palindrome" />
+            <option value="$PROJECT_DIR$/SelectionSort" />
             <option value="$PROJECT_DIR$/SortedSquareArray" />
+            <option value="$PROJECT_DIR$/ThreeLargestNumber" />
             <option value="$PROJECT_DIR$/TournamentWinner" />
             <option value="$PROJECT_DIR$/ValidateSubSequence" />
           </set>
